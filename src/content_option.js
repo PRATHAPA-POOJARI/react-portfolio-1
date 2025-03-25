@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "Prathap";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Prathapa",
+    description: "I’m Prathapa Full stack devloper,currently working in India",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Prathapa",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I will create React js application",
+        third: "I will create Mern stack application",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: " I will create mern stack website in html css react node js express js mongodb",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -20,40 +20,40 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "React js developer",
+        where: "Banglore",
+        date: "2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: " React js developer",
+        where: "Banglore",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Mern stack developer",
+        where: " Banglore",
+        date: "2024",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Javascript",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "React",
         value: 85,
     },
     {
-        name: "Javascript",
+        name: "Express js",
         value: 80,
     },
     {
-        name: "React",
+        name: "Mongodb",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Html&Css",
         value: 85,
     },
 ];
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "prathappoojari697@gmail.com",
+    YOUR_FONE: "8495069491",
+    description: "place: Banglore",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -149,7 +149,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/prathapa-poojari-a329a3181/",
     twitter: "https://twitter.com",
 };
 export {
